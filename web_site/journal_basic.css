@@ -25,6 +25,7 @@ body {
 
 
 h1, h2 {
+	
 	font-weight: normal;
 	font-family: "Century Gothic";
 	margin: 3px;
@@ -32,6 +33,7 @@ h1, h2 {
 }
 
 img {
+	
 	border-style: none;
 	padding: 5px;
 }
