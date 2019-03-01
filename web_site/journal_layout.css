@@ -1,0 +1,43 @@
+.div1
+{
+	
+	background-color: white;
+	border: solid white 10px 
+}
+.div2
+{
+	background-color: #A8F0F0; 
+	
+}
+.div3
+{
+	font-size: 10pt; 
+}
+.div4
+{
+	height: 220px;
+	margin-left: 0px;
+	margin-top: 10px;
+	padding: 5px;
+	background-color: #E8FBFB;
+	border: solid #C2E9E9 4px 
+}
+span
+{
+	border-bottom: dashed #009097 2px 
+}
+body
+{
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url("images/background.gif"); 
+
+}
+img 
+{
+	float: right;
+}
+.h1
+{
+	text-align: right;
+}
